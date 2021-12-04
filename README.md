@@ -1,2 +1,0 @@
-# Help-together
-Learn something
